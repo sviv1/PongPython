@@ -1,0 +1,35 @@
+# Compiled Python files
+*.pyc
+
+# Virtual environment
+venv/
+
+# Editor and IDE files
+.idea/
+.vscode/
+
+# Dependency directories
+__pycache__/
+dist/
+build/
+
+# Logs
+*.log
+
+# macOS file metadata
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# Project-specific files or directories to ignore
+# Modify this section as per your project structure
+
+# Ignore the game executable
+pong.exe
+
+# Ignore the game assets directory
+assets/
+
+# Ignore any generated documentation
+docs/
